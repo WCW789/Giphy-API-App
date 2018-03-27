@@ -1,0 +1,17 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: tan;
+}
+h1 { 
+    font-size: 45px;
+    color: pink;
+    margin-left: 20px;
+}    
+#gifAdd {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 40px;
+    margin-left: 20px;
+}
+#gifView, label, #gifAppear {
+    margin-left: 20px;
+}
